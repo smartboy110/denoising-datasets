@@ -12,6 +12,9 @@ Book Title: Proc. 8th Int'l Conf. Computer Vision Year: 2001 Month: July Volume:
 
 
 The lymph node dataset for image denoising.The directory contains testdatasets.
+
 Authors: Zhang J, Wang Y and Shi X. 
+
 Title:   An improved graph cut segmentation method for cervical lymph nodes on sonograms and its relationship with node's shape assessment. 
+
 Book Title: Computerized Medical Imaging and Graphics. 33(8): 602-607.
